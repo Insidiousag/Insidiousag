@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am 3rd year ug student at NIt bhopal from ece<br>my interest lie in solving coding problem active on leetcode , and bit of cp<br>on codeforces, codechef<br>i am a full stack developer in mern stack <br>i have good cpga and strong hold on cs fundamental os dbms oops<br>i am interested in ai ml deep learning and gen ai
+I am 3rd year ug student at NIT bhopal from Electronics & communication dept.<br>my interest lie in solving coding problem active on leetcode, and bit of cp<br>on codeforces, codechef<br>i am a full stack developer in mern stack <br>i have good cpga and strong hold on cs fundamental os dbms oops<br>i am interested in AI-ML, deep learning and GEN AI
 
 
 ## 🌐 Socials:
